@@ -1,5 +1,5 @@
 FROM alpine:3.5
-MAINTAINER shufo
+MAINTAINER zaephor
 
 ENV TELEPORT_VERSION 2.7.4
 ENV TELEPORT_ROLES auth,proxy,node
