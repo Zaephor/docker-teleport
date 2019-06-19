@@ -4,7 +4,7 @@ A docker image of [teleport](https://gravitational.com/teleport/). DockerHub rep
 
 You can use these tags as teleport version.
 
-- `2.0.5`, `latest`
+- `latest`
 
 ## Usage
 
