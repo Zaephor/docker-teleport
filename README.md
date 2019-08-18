@@ -1,3 +1,9 @@
+# DEPRECATION WARNING
+
+I'm a bit done with this particular repo, moving to https://github.com/zaephor/teleport where they're based on LSIOBASE images and trying to support more architectures by building teleport from scratch.
+
+I'll try to remember to archive this once I've finished migrating my personal use to the other format.
+
 # docker-teleport
 
 A docker image of [teleport](https://gravitational.com/teleport/). DockerHub repository is [here](https://hub.docker.com/r/shufo/teleport/).
